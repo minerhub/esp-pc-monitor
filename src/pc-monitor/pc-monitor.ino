@@ -3,7 +3,7 @@
 #include <ESP8266WebServer.h>
 
 const String* WLAN_SSID = new String("WLAN_PRIVATE");
-const String* WLAN_PASS = new String("belennereaTKM_432");
+const String* WLAN_PASS = new String("SOMEPASS");
 
 const char* www_username = "miner01";
 const char* www_password = "minerTKM_432";
